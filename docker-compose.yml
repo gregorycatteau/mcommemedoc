@@ -1,0 +1,10 @@
+version: "3"
+services:
+  mcommemedoc:
+    ports:
+      - "8080:8080"
+    image: mcommemedoc
+    build:
+      context: .
+      dockerfile: Dockerfile
+      
