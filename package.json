@@ -23,7 +23,7 @@
     "nuxt": "^3.3.3"
   },
   "dependencies": {
-    "@formkit/nuxt": "^0.16.4",
+    "@formkit/nuxt": "^0.17.2",
     "@types/node": "^18.15.11",
     "nuxt-icons": "^3.1.0"
   }
