@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@formkit/nuxt": "^0.16.4",
-    "@types/node": "^18.15.11",
+    "@types/node": "^18.16.16",
     "nuxt-icons": "^3.1.0"
   }
 }
